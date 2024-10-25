@@ -5,15 +5,15 @@ const { color } = require('./lib/myfunc')
 
 //owner
 global.owner = '918207075323'
-global.nomerowner = ["2347043759577"]
+global.nomerowner = ["919614477116"]
 
 // Apikey 
 
 global.skizo = 'YAMMYY UWU'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*GREAT SUBARU*'
-global.author = '🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈'𝐌  ＳＵＢＡＲＵ🌷(๑˃𝐀𝐒𝐈𝐀'𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂™ 🐳🕊+919614477116_'
+global.packname = '🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌  ＳＵＢＡＲＵ🌷(๑˃𝐀𝐒𝐈𝐀𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂™ 🐳🕊+919614477116_'
+global.author = 'ｉｎｓｔａ - lexx lutheer (._🌴ＡＡＤＩ /ᐠ - ˕ -) '
 
 // cpanel 
 global.domain = 'https://' // deeceexxx
